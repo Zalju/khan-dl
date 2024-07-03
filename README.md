@@ -1,3 +1,16 @@
+## Added by Zalju
+
+## khan-dl:
+## https://www.perplexity.ai/search/can-yt-dlp-be-used-to-download-KykZHJ7vSpCUHB.Nqe_1TA
+## yt-dlp -f "bestvideo[height<=720]+bestaudio/best[height<=720]" --write-subs --sub-lang en "https://www.youtube.com/watch?v=VIDEO_ID"
+## yt-dlp -f "bestvideo[height<=720]+bestaudio/best[height<=720]" --write-subs --sub-lang en "https://www.khanacademy.org/math/cc-kindergarten-math"
+## https://github.com/rand-net/khan-dl
+## https://github.com/Zalju/khan-dl
+## yt-dlp:
+## https://www.youtube.com/watch?v=5aYwU4nj5QA (How to Install and Use yt-dlp [2024] [Quick and Easy!] [4 Minute Tutorial] [Windows 11])
+
+## Added by Zalju
+
 # khan-dl
 
 A python script to download courses from [Khan Academy](https://www.khanacademy.org) using [youtube-dl](https://github.com/ytdl-org/youtube-dl) and [beautifulsoup4](https://pypi.org/project/beautifulsoup4/).
